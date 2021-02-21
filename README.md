@@ -2,5 +2,5 @@
 
 I'm a Software Engineering student from Portugal. 🇵🇹
 
-See more about me in my [home page. 🏠](https://joanafonsogomes.github.io/home/)
+See more about me on my [homepage. 🏠](https://joanafonsogomes.github.io/home/)
 
