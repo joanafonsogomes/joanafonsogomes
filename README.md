@@ -2,5 +2,5 @@
 
 I'm a Software Engineering student from Portugal.
 
-![](https://github-readme-stats.vercel.app/api?username=joanafonsogomes)](https://github.com/joanafonsogomes/github-readme-stats) 
+See more about me in https://joanafonsogomes.github.io/home/.
 
