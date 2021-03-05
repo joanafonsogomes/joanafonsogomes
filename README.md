@@ -2,5 +2,5 @@
 
 I'm a Software Engineering student from Portugal. &nbsp;<img style="float: right"  width="18" src="https://github.com/joanafonsogomes/joanafonsogomes/blob/main/flag.png">
 
-See more about me on my [homepage. :house:](https://joanafonsogomes.github.io/home/) 
+See more about me on my [:house: homepage.](https://joanafonsogomes.github.io/home/) 
 
