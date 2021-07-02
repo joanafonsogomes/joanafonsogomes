@@ -4,5 +4,5 @@ I'm a Software Engineering student from Portugal. &nbsp;<img style="float: right
 
 See more about me on my [:house: homepage.](https://joanafonsogomes.github.io/home/) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joanafonsogomes&theme=graywhite" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=joanafonsogomes&theme=graywhite" />
 
