@@ -8,8 +8,6 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joanafonsogomes/)
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11186161559)
 
-![Instagram](https://img.shields.io/badge/joanafonsogomes-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
 ##
 
 ### :gear: Technologies & Tools
