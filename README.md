@@ -35,4 +35,4 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 
 ##
 
-### :house: [![](https://img.shields.io/badge/joana%20afonso%20gomes-blue.svg?style=for-the-badge&logo=Home)](https://joanafonsogomes.github.io/home/)
+### :house: [![](https://img.shields.io/badge/my%20homepage-blue.svg?style=for-the-badge&logo=Home)](https://joanafonsogomes.github.io/home/)
