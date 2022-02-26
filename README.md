@@ -7,8 +7,6 @@ You can also find me here: &nbsp; ![](https://img.shields.io/badge/LinkedIn-0077
 ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-
-<br/>
 ### :gear: Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
