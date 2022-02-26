@@ -12,7 +12,7 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ##
 
 ### :gear: Technologies & Tools
-![](https://img.shields.io/badge/Linux-FF968A?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Linux-FF968A?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-ABDEE6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-ABDEE6?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
