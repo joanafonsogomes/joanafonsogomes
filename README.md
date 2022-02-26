@@ -3,7 +3,8 @@
 I'm a Software Engineering student from Portugal. &nbsp;<img style="float: right"  width="18" src="https://github.com/joanafonsogomes/joanafonsogomes/blob/main/flag.png">
 <br/>
 
-You can also find me here: &nbsp; [<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg">](https://www.facebook.com/joaana.gomees/) &nbsp; [<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/jooanagoomes/) &nbsp; [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/joana-afonso-gomes-b130751ba/)
+You can also find me here: &nbsp; 
+![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=linux&logoColor=white&color=informational)
 <br/>
 ### :gear: Technologies & Tools
 
