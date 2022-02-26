@@ -2,6 +2,7 @@
 
 I'm a Software Engineering student from Portugal. You can also find me here: 
 
+[![](https://img.shields.io/badge/my%20homepage-blue.svg?style=for-the-badge)](https://joanafonsogomes.github.io/home/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joana-afonso-gomes-b130751ba/)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Regina%Phalange#7301)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joaana.gomees/)
@@ -32,7 +33,3 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ![](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Ola%20by-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-##
-
-### [![](https://img.shields.io/badge/my%20homepage-blue.svg?style=for-the-badge)](https://joanafonsogomes.github.io/home/)
