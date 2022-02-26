@@ -8,9 +8,8 @@ You can also find me here: &nbsp; ![](https://img.shields.io/badge/LinkedIn-0077
 ![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 
 ### :gear: Technologies & Tools
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=ff69b4)
