@@ -33,7 +33,7 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Ola%20by-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![](https://img.shields.io/badge/homepage-blue.svg?style=for-the-badge&logo=Home)
+:house: ![](https://img.shields.io/badge/homepage-blue.svg?style=for-the-badge&logo=Home)
 
 ##
 
