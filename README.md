@@ -31,7 +31,7 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://img.shields.io/badge/Ola%20by-TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![](https://img.shields.io/badge/Ola%20by-homepage-blue.svg?style=for-the-badge&logo=TensorFlow)
 
