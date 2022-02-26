@@ -3,8 +3,6 @@
 I'm a Software Engineering student from Portugal. &nbsp;<img style="float: right"  width="18" src="https://github.com/joanafonsogomes/joanafonsogomes/blob/main/flag.png">
 <br/>
 
-##
-
 You can also find me here: 
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
