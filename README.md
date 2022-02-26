@@ -36,5 +36,3 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ##
 
 See more about me on my [:house: homepage.](https://joanafonsogomes.github.io/home/) 
-
-![](https://img.shields.io/badge/?style=for-the-badge&logo=TensorFlow&logoColor=white)
