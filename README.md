@@ -24,6 +24,6 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=brightgreen)
 
-<br/>
+##
 
 See more about me on my [:house: homepage.](https://joanafonsogomes.github.io/home/) 
