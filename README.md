@@ -3,13 +3,13 @@
 I'm a Software Engineering student from Portugal. &nbsp;<img style="float: right"  width="18" src="https://github.com/joanafonsogomes/joanafonsogomes/blob/main/flag.png">
 <br/>
 
-You can also find me here: &nbsp; ![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
-![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+You can also find me here: &nbsp; ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 ### :gear: Technologies & Tools
-![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=ff69b4)
