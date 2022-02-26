@@ -4,7 +4,7 @@ I'm a Software Engineering student from Portugal. &nbsp;<img style="float: right
 <br/>
 
 You can also find me here: 
-<br/>
+##
 
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&size=small)
