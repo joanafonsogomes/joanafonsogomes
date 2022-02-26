@@ -23,7 +23,7 @@ I'm a Software Engineering student from Portugal. You can also find me here:
 ![](https://img.shields.io/badge/c-%2396A2FF.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c%23-%2396A2FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/c++-%2396A2FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/mysql-%23FFF5BA.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/mysql-%2397C1A9.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
