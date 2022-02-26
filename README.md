@@ -39,4 +39,4 @@ See more about me on my [:house: homepage.](https://joanafonsogomes.github.io/ho
 
 ##
 
-![](https://github-readme-stats.vercel.app/api?username={joanafonsogomes}&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username=joanafonsogomes&theme=blue-green)
