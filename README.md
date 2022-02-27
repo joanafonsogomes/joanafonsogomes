@@ -10,7 +10,7 @@ I'm a Software Engineering student from Braga, Portugal. You can also find me he
 
 ##
 
-### ![fa-crown](fa-crown.svg) Technologies & Tools
+### ![](https://github.com/joanafonsogomes/joanafonsogomes/blob/main/code.png) Technologies & Tools
 
 ![](https://img.shields.io/badge/Linux-957DAD?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-957DAD?style=for-the-badge&logo=windows&logoColor=white)
