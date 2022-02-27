@@ -1,6 +1,6 @@
 I'm a Software Engineering student from Braga, Portugal. You can also find me here: 
 
-[![](https://img.shields.io/badge/my%20homepage-4F66B0.svg?style=for-the-badge)](https://joanafonsogomes.github.io/home/)
+[![](https://img.shields.io/badge/homepage-4F66B0.svg?style=for-the-badge)](https://joanafonsogomes.github.io/home/)
 ![](https://img.shields.io/badge/afonnso.gommes-CE594C?style=for-the-badge&logo=gmail&logoColor=white)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joana-afonso-gomes-b130751ba/)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Regina%Phalange#7301)
