@@ -1,4 +1,4 @@
-## Hi there, it's Joana! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Software Engineering student from Portugal. You can also find me here: 
 
