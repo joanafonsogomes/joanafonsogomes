@@ -10,7 +10,7 @@ I'm a Software Engineering student from Braga, Portugal. You can also find me he
 ##
 
 ### :gear: Technologies & Tools
-[![](https://img.shields.io/badge/Linux-957DAD?style=for-the-badge&logo=linux&logoColor=white)]()
+![](https://img.shields.io/badge/Linux-957DAD?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-957DAD?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-957DAD?style=for-the-badge&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-9E7E8B.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
