@@ -1,5 +1,3 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 I'm a Software Engineering student from Portugal. You can also find me here: 
 
 &nbsp; [![](https://img.shields.io/badge/my%20homepage-4F66B0.svg?style=for-the-badge)](https://joanafonsogomes.github.io/home/) &nbsp; &nbsp;
