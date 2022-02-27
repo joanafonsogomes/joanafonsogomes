@@ -10,7 +10,7 @@ I'm a Software Engineering student from Braga, Portugal. You can also find me he
 
 ##
 
-### <img src="https://github.com/joanafonsogomes/joanafonsogomes/blob/main/code.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;"/> Technologies & Tools
+### <img src="https://github.com/joanafonsogomes/joanafonsogomes/blob/main/code.png" alt="Markdown Monster icon" style="float: left; height: 25px"/> Technologies & Tools
 
 ![](https://img.shields.io/badge/Linux-957DAD?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-957DAD?style=for-the-badge&logo=windows&logoColor=white)
