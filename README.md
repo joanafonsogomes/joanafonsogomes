@@ -8,7 +8,7 @@ I'm a Software Engineering student from Braga, Portugal. You can also find me he
 [![](https://img.shields.io/badge/Instagram-953736?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joanafonsogomes/)
 [![](https://img.shields.io/badge/Spotify-8c924f?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11186161559)
 
-##
+### :gear: Technologies & Tools
 
 ![](https://img.shields.io/badge/Linux-957DAD?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/Windows-957DAD?style=for-the-badge&logo=windows&logoColor=white)
