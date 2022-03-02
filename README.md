@@ -30,6 +30,7 @@ I'm a Software Engineering student from Braga, Portugal. You can also find me he
 ![](https://img.shields.io/badge/react-%23a4a3de.svg?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-a4a3de?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Pug-a4a3de?style=for-the-badge&logo=pug&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![](https://img.shields.io/badge/numpy-%236e7b8f.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/pandas-%236e7b8f.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-%236e7b8f.svg?style=for-the-badge&logo=plotly&logoColor=white)
