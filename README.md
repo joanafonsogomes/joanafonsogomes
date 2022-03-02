@@ -23,6 +23,7 @@ I'm a Software Engineering student from Braga, Portugal. You can also find me he
 ![](https://img.shields.io/badge/c-%2396A2FF.svg?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/c%23-%2396A2FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/c++-%2396A2FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Haskell-96A2FF?style=for-the-badge&logo=haskell&logoColor=white)
 ![](https://img.shields.io/badge/mysql-%239799ba.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-%239799ba.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/docker-%236eb5ff.svg?style=for-the-badge&logo=docker&logoColor=white)
