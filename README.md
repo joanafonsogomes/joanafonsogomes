@@ -1,4 +1,4 @@
-I'm a Software Engineering student from Braga, Portugal. You can also find me here: 
+I'm a Software Engineering Master's student from Braga, Portugal. You can also find me here: 
 
 [![](https://img.shields.io/badge/homepage-4F66B0.svg?style=for-the-badge)](https://joanafonsogomes.github.io/home/)
 ![](https://img.shields.io/badge/afonnso.gommes-CE594C?style=for-the-badge&logo=gmail&logoColor=white)
