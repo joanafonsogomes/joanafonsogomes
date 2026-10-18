@@ -1,6 +1,6 @@
 I'm a Software Engineer based in Braga, Portugal, with a Master's degree in Software Engineering from the University of Minho.
 
-I currently work at Bosch, developing full-stack enterprise applications using **Java, Spring Boot, Angular, and TypeScript**. My experience spans frontend and backend development, API design, relational databases, and CI/CD processes.
+I currently work at Bosch, developing full-stack enterprise applications using **Java, Spring Boot, Angular, and TypeScript**. My experience spans backend and frontend development, API design, relational databases, and CI/CD processes.
 
 I'm passionate about building reliable, maintainable software, solving complex problems, and continuously learning new technologies.
 
