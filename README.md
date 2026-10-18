@@ -65,5 +65,3 @@ You can also find me here:
 ### Academic Projects
 
 The public repositories on my profile showcase projects developed during my Bachelor's and Master's studies at the University of Minho, covering full-stack development, software design, databases, and other areas of computer science.
-
-My professional work is developed in private enterprise repositories.
