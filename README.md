@@ -9,7 +9,6 @@ You can also find me here:
 ![](https://img.shields.io/badge/afonnso.gommes-CE594C?style=for-the-badge&logo=gmail&logoColor=white)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joana-afonso-gomes)
 [![](https://img.shields.io/badge/Instagram-953736?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joanafonsogomes/)
-[![](https://img.shields.io/badge/Spotify-8c924f?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11186161559)
 
 ---
 
