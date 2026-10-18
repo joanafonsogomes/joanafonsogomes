@@ -2,6 +2,8 @@ I'm a Software Engineer based in Braga, Portugal, with a Master's degree in Soft
 
 I currently work at Bosch, developing full-stack enterprise applications using **Java, Spring Boot, Angular, and TypeScript**. My experience spans backend and frontend development, API design, relational databases, and CI/CD processes.
 
+I also have a background in **Machine Learning and Data Science**, having applied predictive modelling and data analysis techniques to supply chain uncertainty assessment and inventory optimization during my Master's thesis and internship.
+
 I'm passionate about building reliable, maintainable software, solving complex problems, and continuously learning new technologies.
 
 You can also find me here:
@@ -23,7 +25,7 @@ You can also find me here:
 ![](https://img.shields.io/badge/javascript-%2396A2FF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
 **Development & DevOps**
